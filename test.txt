@@ -1,3 +1,4 @@
 this is a new line.
 second line.
 Creating a new branch is quick AND simple.
+采用普通的方式合并。
